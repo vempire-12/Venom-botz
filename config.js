@@ -31,9 +31,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/qpnazl.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "Vempire-md",
+BOT_NAME: process.env.BOT_NAME || "vempire-md",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "Vempire-md",
+STICKER_NAME: process.env.STICKER_NAME || "vempire-md",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -43,7 +43,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "+923132006659",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "*Vempire-md Official*",
+OWNER_NAME: process.env.OWNER_NAME || "*vempire-md Official*",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ArslanMD Official ❣️*",
 // add bot owner name    
